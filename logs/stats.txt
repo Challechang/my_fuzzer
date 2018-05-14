@@ -1,0 +1,18 @@
+Time: 2018-05-14T11:15:08.731Z
+Path: ./README.md
+File Size: 829 bytes
+Iterations: 10
+Errors: 1
+
+Time: 2018-05-14T11:18:40.354Z
+Path: ./README.md
+File Size: 829 bytes
+Iterations: 100
+Errors: 2
+
+Time: 2018-05-14T11:19:44.811Z
+Path: ./README.md
+File Size: 829 bytes
+Iterations: 100
+Errors: 1
+
